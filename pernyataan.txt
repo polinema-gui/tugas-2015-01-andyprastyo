@@ -1,11 +1,10 @@
 Saya yang mempunyai identitas di bawah ini,
-NIM   : [NIM]
-Nama  : [nama-lengkap]
-Kelas : [kelas]
+NIM   : 1441180119
+Nama  : ANDI EKO PRASTYO
+Kelas : TI - 2E
 
 Dengan ini menyatakan:
 
-Demi Allah (disesuaikan dengan agama dan kepercayaan masing-masing) saya
-mengerjakan tugas ini dengan jujur sesuai kontrak perkuliahan yang telah
+Demi Allah saya mengerjakan tugas ini dengan jujur sesuai kontrak perkuliahan yang telah
 disepakati, apabila saya melakukan kecurangan semoga ilmu saya tidak bermanfaat
 dan dengan rela menerima sanksi.
